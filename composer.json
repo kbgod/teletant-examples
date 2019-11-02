@@ -1,0 +1,16 @@
+{
+    "name": "askold/teletant-examples",
+    "description": "Examples for Teletant Framework",
+    "type": "project",
+    "require": {
+        "askoldex/teletant": "1.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Askold Monarkhov",
+            "email": "askold.monarkhov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
