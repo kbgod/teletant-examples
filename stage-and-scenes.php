@@ -89,8 +89,8 @@ $bot->middlewares([
  *
  * Почти все готово, осталось войти в первую сцену
  */
-$bot->onCommand('go', function (Context $ctx) use ($messageScene) {
-    $ctx->enter($messageScene);
+$bot->onCommand('go', function (Context $ctx) {
+    $ctx->enter('message');
     /*
      * В метод enter так же можно передать объект сцены
      * $ctx->enter($messageScene);
