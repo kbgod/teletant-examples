@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8f6aac01d29dca5870905a0260199232",
+    "content-hash": "1ab5036e6c486d9b7b637a802f0ae765",
     "packages": [
         {
             "name": "askoldex/formatter",
@@ -41,16 +41,16 @@
         },
         {
             "name": "askoldex/teletant",
-            "version": "1.0.0",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/askoldex/teletant.git",
-                "reference": "ae35f05bbd54113f59faeb3ec479899c0dd7b38b"
+                "reference": "a12b0b3dae5288cbf2066145dc65987e7b8fdcae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/askoldex/teletant/zipball/ae35f05bbd54113f59faeb3ec479899c0dd7b38b",
-                "reference": "ae35f05bbd54113f59faeb3ec479899c0dd7b38b",
+                "url": "https://api.github.com/repos/askoldex/teletant/zipball/a12b0b3dae5288cbf2066145dc65987e7b8fdcae",
+                "reference": "a12b0b3dae5288cbf2066145dc65987e7b8fdcae",
                 "shasum": ""
             },
             "require": {
@@ -87,7 +87,7 @@
                 "teletant",
                 "video"
             ],
-            "time": "2019-11-02T13:50:26+00:00"
+            "time": "2019-11-03T07:54:53+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",

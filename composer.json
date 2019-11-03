@@ -3,7 +3,7 @@
     "description": "Examples for Teletant Framework",
     "type": "project",
     "require": {
-        "askoldex/teletant": "1.0.0"
+        "askoldex/teletant": "^1.0"
     },
     "license": "MIT",
     "authors": [
